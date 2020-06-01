@@ -1,0 +1,5 @@
+name= ARD url= "https://mcdn.daserste.de/daserste/de/master.m3u8" logo= "https://raw.githubusercontent.com/Zwergkaninchen/logos/master/ARD.png"
+name= ZDF url= "https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8" logo= "https://raw.githubusercontent.com/Zwergkaninchen/logos/master/ZDF.png"
+name= RTL url= "http://5.135.92.133:52841/out/u/115_1.m3u8" logo= "https://raw.githubusercontent.com/Zwergkaninchen/logos/master/RTL.png"
+name= RTL2 url= "http://5.135.92.133:52841/out/u/119_1.m3u8" logo= "https://raw.githubusercontent.com/Zwergkaninchen/logos/master/RTL2.png"
+name= SIXX url= "http://31.177.62.139:8001/play/s9" logo= "https://raw.githubusercontent.com/Zwergkaninchen/logos/master/SIXX.png"
